@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/githubuitleg.iml" filepath="$PROJECT_DIR$/.idea/githubuitleg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/githubuitleg.iml" filepath="$PROJECT_DIR$/githubuitleg.iml" />
     </modules>
   </component>
 </project>
